@@ -28,10 +28,11 @@
     "opencollective": "^1.0.3",
     "path-to-regexp": "^2.4.0",
     "prop-types": "^15.6.2",
-    "react-navigation": "^4.x",
-    "react-navigation-drawer": "^2.7.1",
-    "react-navigation-stack": "^2.10.4",
-    "react-navigation-tabs": "^2.11.1",
+    "@react-navigation/core": "^6.x",
+    "@react-navigation/native": "^6.x",
+    "@react-navigation/drawer": "^6.x",
+    "@react-navigation/stack": "^6.x",
+    "@react-navigation/bottom-tabs": "^6.x",
     "remove": "^0.1.5"
   },
   "devDependencies": {
