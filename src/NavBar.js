@@ -1,10 +1,10 @@
 import React from 'react';
-import { HeaderBackButton } from 'react-navigation-stack';
+import { HeaderBackButton } from '@react-navigation/stack';
 import {
   Platform, I18nManager, Image, StyleSheet, Text, TouchableOpacity, View,
 } from 'react-native';
-import { NavigationActions } from 'react-navigation';
-import { DrawerActions } from 'react-navigation-drawer';
+import { NavigationActions } from '@react-navigation/core';
+import { DrawerActions } from '@react-navigation/drawer';
 import _backButtonImage from '../images/back_chevron.png';
 
 const hitSlop = {

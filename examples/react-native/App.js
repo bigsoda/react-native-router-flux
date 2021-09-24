@@ -1,6 +1,6 @@
 import React from 'react';
 import {Platform, StyleSheet, Text} from 'react-native';
-import {StackViewStyleInterpolator} from 'react-navigation-stack';
+import {StackViewStyleInterpolator} from '@react-navigation/stack';
 import {
   Scene,
   Router,

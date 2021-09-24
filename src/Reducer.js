@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { NavigationActions, StackActions } from 'react-navigation';
+import { NavigationActions, StackActions } from '@react-navigation/core';
 import * as ActionConst from './ActionConst';
 import { getActiveState, popPrevious } from './State';
 
